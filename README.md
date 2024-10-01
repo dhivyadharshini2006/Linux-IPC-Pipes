@@ -111,7 +111,8 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c15574b3-5fbe-414e-97ad-58106b06dff8)
+
 
 
 # RESULT:
